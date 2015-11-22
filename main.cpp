@@ -3,7 +3,7 @@
 int main()
 {
     std::cout << "Some message" << std::endl;
-
+    std::cout << " line 2" << std::endl;
     return 0;
 }
 
